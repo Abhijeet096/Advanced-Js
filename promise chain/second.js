@@ -28,7 +28,7 @@ p1
     p2 
     .then((res) =>{
         console.log(res);
-    })
+    });
 });
 
 
